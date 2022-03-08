@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jonopowell
-- 👀 I’m interested in VR, Azure, GCP and Security
-- 🌱 I’m currently learning how to look for secrets accidentially checked into code
+- 👋 Hi, I’m @jonopowell 
+- 👀 I’m interested in VR, Azure, GCP and Security.
+- 🌱 I’m currently learning how to look for secrets accidentially checked into code.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 Drop me an email!
 
