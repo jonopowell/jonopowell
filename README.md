@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jonopowell 
-- 👀 I’m interested in VR, Azure, GCP and Security.
-- 🌱 I’m currently learning how to look for secrets accidentially checked into code.
-- 💞️ I’m looking to collaborate on anything!
-- 📫 Drop me an email!
+- 👀 I’m interested in Everything as Code, VR, Cloud Computing, Wifi and Security.
+- 🌱 I'm currently reading up on Threat Analysis
 
 <!---
 jonopowell/jonopowell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
